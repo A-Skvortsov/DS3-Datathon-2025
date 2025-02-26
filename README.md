@@ -11,13 +11,13 @@ set).
 
 Shoutout to Lucas, Mingyuan and Tony.
 
-Fungi image set: arXiv:2109.07322 / https://doi.org/10.48550/arXiv.2109.07322
-Car evaluation dataset: https://doi.org/10.24432/C5JP48.
+Fungi image set: arXiv:2109.07322 / https://doi.org/10.48550/arXiv.2109.07322  
+Car evaluation dataset: https://doi.org/10.24432/C5JP48.  
 Car accident dataset: https://doi.org/10.48550/arXiv.1906.05409
 
-Citations (in same order as above):
-Fungi: arXiv:2109.07322
-Car Eval: Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Repository.
-Car Accidents:
+Citations (in same order as above):  
+Fungi: arXiv:2109.07322  
+Car Eval: Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Repository.  
+Car Accidents:  
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
